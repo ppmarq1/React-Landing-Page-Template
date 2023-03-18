@@ -7,13 +7,13 @@ export const About = (props) => {
         <div className="row">
           <div className="col-xs-12 col-md-6">
             {" "}
-            <img src="img/fotopaulacarol.jpg" className="img-responsive" alt="" />{" "}
+            <img src="img/Sambo-fruta.png" className="img-responsive" alt="" />{" "}
           </div>
           <div className="col-xs-12 col-md-6">
             <div className="about-text">
-              <h2>Sobre nosotros</h2>
+              <h2>Sobre el Açai</h2>
               <p>{props.data ? props.data.paragraph : "loading..."}</p>
-              <h3>¿Por qué?</h3>
+              <h3>¿Beneficios?</h3>
               <div className="list-style">
                 <div className="col-lg-6 col-sm-6 col-xs-12">
                   <ul>
