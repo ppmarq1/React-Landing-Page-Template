@@ -79,10 +79,9 @@ hr {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
 }
 #menu a.navbar-brand {
-  max-width:120px;
-  max-height: 55px;
+  max-width:300px;
+  max-height: 50px;
     width: auto;
-    height: auto;
 }
 #menu.navbar-default .navbar-nav > li > a {
   font-family: "Lato", sans-serif;
