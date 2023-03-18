@@ -127,28 +127,6 @@
       "name": "Johnathan Doe"
     }
   ],
-  "Team": [
-    {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
-    },
-    {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
-    }
-  ],
   "Contact": {
     "address": "Calle Hernando Colón, 3 - 41004 Sevilla, España",
     "phone": "+34 691 456 915",
@@ -159,24 +137,24 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Menú Açai en Espanhol",
+      "largeImage": "img/portfolio/menu-acai-espanhol.jpg",
+      "smallImage": "img/portfolio/menu-acai-espanhol.jpg"
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Menú Snacks en Espanhol",
+      "largeImage": "img/portfolio/menu-snacks-espanhol.jpg",
+      "smallImage": "img/portfolio/menu-snacks-espanhol.jpg"
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Açai Menu in English",
+      "largeImage": "img/portfolio/menu-acai-english.jpg",
+      "smallImage": "img/portfolio/menu-acai-english.jpg"
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Snacks Menu in English",
+      "largeImage": "img/portfolio/menu-snacks-english.jpg",
+      "smallImage": "img/portfolio/menu-snacks-english.jpg"
     }
   ]
 }
