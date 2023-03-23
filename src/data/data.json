@@ -65,20 +65,21 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "UBER EATS",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+     "img": "img/uber-eats.png",
+     "largeImage": "img/uber-eats.png",
+      "smallImage":  "img/uber-eats.png"
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "GLOVO",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
+      "img": "img/uber-eats.png",
+      "largeImage": "img/uber-eats.png",
+       "smallImage":  "img/uber-eats.png"
+     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    }
+      "img": "img/uber-eats.png",
+      "largeImage": "img/uber-eats.png",
+       "smallImage":  "img/uber-eats.png"
+     }
+    
   ],
   "Testimonials": [
     {

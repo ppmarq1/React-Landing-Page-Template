@@ -1,3 +1,4 @@
+import { Image } from "./image";
 import React from "react";
 
 export const Services = (props) => {
@@ -12,17 +13,19 @@ export const Services = (props) => {
         </div>
         <div className="row">
           {props.data
-            ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className="col-md-4">
-                  {" "}
-                  <i className={d.icon}></i>
-                  <div className="service-desc">
-                    <h3>{d.name}</h3>
-                    <p>{d.text}</p>
+           ? props.data.map((d, i) => (
+                  <div
+                    key={`${d.title}-${i}`}
+                    className="col-sm-6 col-md-4 col-lg-4"
+                  >
+                    <Image
+                      title={d.title}
+                      largeImage={d.largeImage}
+                      smallImage={d.smallImage}
+                    />
                   </div>
-                </div>
-              ))
-            : "loading"}
+                ))
+              : "Loading..."}
         </div>
       </div>
     </div>
