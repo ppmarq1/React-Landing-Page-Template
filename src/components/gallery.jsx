@@ -32,12 +32,25 @@ export const Gallery = (props) => {
       </div>
         <div id="footer">
           <div className="container text-center">
-            <p>
-              &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" "}
-              <a href="http://www.templatewire.com" rel="nofollow">
-                TemplateWire
+           <li>
+             <a
+                href="https://www.instagram.com/samboacai.es/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <img src="./Images/instagram.svg" alt="instagram icon" />
               </a>
-            </p>
+            </li>
+            <li>
+              <a
+                href="https://www.facebook.com/samboacai.es"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <img src="./Images/facebook.svg" alt="facebook icon" />
+              </a>
+            </li>
+            <li></li>
           </div>
         </div> 
     </div>
