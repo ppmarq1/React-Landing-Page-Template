@@ -8,7 +8,7 @@ export const Services = (props) => {
         <div className="section-title">
           <h2>DELIVERY</h2>
           <p>
-          ¿Quieres disfrutar de un açai en casa o en el trabajo?
+          ¿Lo sentimos, pero estamos gestionando la inscripción con Glovo y Uber Eats?
           </p>
         </div>
         <div className="row">
