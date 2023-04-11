@@ -65,15 +65,10 @@
   ],
   "Services": [
     {
-     "img": "img/uber-eats.png",
-     "largeImage": "img/uber-eats.png",
-      "smallImage":  "img/uber-eats.png"
-    },
-    {
       "img": "img/glovo.png",
       "largeImage": "img/glovo.png",
        "smallImage":  "img/glovo.png"
-     }
+    }
   ],
   "Testimonials": [
     {
