@@ -585,14 +585,14 @@ label {
   padding: 30px 0;
 }
 #footer p {
-  color: #f8baba;
+  color: #141010;
   font-size: 14px;
 }
 #footer a {
-  color: #608dfd;
+  color: #21242b;
 }
 #footer a:hover {
-  border-bottom: 2px solid #608dfd;
+  border-bottom: 2px solid #101113;
 }
 
 @media (max-width: 768px) {
