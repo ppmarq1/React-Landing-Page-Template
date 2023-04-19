@@ -33,9 +33,9 @@ export const Gallery = (props) => {
         <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 Pedro Marques React Land Page Template. Design by{" "}
-            <a href="http://www.templatewire.com" rel="nofollow">
-              TemplateWire
+            &copy; 2023 Pedro Marques. Follow us{" "}
+            <a href="https://www.instagram.com/samboacai.es/" rel="nofollow">
+              INSTAGRAM
             </a>
           </p>
         </div>
