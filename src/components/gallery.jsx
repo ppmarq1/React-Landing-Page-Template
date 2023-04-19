@@ -33,7 +33,7 @@ export const Gallery = (props) => {
         <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 Pedro Marques. Follow us{" "}
+            &copy; 2023 Pedro Marques. Follow us here on{" "}
             <a href="https://www.instagram.com/samboacai.es/" rel="nofollow">
               INSTAGRAM
             </a>
