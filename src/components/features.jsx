@@ -10,6 +10,9 @@ export const Features = (props) => {
           <p>
           ¡Disfrutar!
           </p>
+          <p>
+          ¡Disfrutar!
+          </p>
         </div>
         <div className="row">
           <div className="portfolio-items">
