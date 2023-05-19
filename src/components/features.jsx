@@ -8,7 +8,7 @@ export const Features = (props) => {
       <div className="section-title">
       <h2>Menú</h2>
           <p>
-          ¡Disfrutar!
+          <h1>¡Disfrutar!</h1>
           </p>
           <p>
          <h1>Precios válidos para consumo en tienda física</h1>
