@@ -11,7 +11,7 @@ export const Features = (props) => {
           ¡Disfrutar!
           </p>
           <p>
-          Precios válidos para consumo en tienda física
+         <h1>Precios válidos para consumo en tienda física</h1>
           </p>
         </div>
         <div className="row">
