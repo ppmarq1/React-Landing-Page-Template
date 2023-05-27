@@ -1,4 +1,3 @@
-import { Image } from "./image";
 import React from "react";
 
 export const Services = (props) => {
@@ -18,11 +17,15 @@ export const Services = (props) => {
                     key={`${d.title}-${i}`}
                     className="col-sm-6 col-md-4 col-lg-4"
                   >
-                    <Image
-                      title={d.title}
-                      largeImage={d.largeImage}
-                      smallImage={d.smallImage}
-                    />
+                  <li>
+                        <a
+                        href="https://glovoapp.com/pt/pt/lisboa/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        >
+                        <img src="img/glovo.png" alt="glovo-icon" />
+                        </a>
+                  </li>
                   </div>
                 ))
               : "Loading..."}
