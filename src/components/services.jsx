@@ -7,7 +7,7 @@ export const Services = (props) => {
         <div className="section-title">
           <h2>DELIVERY</h2>
           <p>
-          ¿Lo sentimos, pero estamos gestionando la inscripción con Glovo y Uber Eats?
+          Próximamente podrás recibir todas nuestras delicias con Glovo
           </p>
         </div>
         <div className="row">
