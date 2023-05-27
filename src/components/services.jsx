@@ -18,13 +18,13 @@ export const Services = (props) => {
                     className="col-sm-6 col-md-4 col-lg-4"
                   >
                   <li>
-                        <a
+                      <a
                         href="https://glovoapp.com/pt/pt/lisboa/"
                         target="_blank"
                         rel="noopener noreferrer"
                         >
                         <img src="img/glovo.png" alt="glovo-icon" />
-                        </a>
+                      </a>
                   </li>
                   </div>
                 ))
